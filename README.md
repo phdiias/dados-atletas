@@ -14,3 +14,6 @@ Os principais métodos utilizados são:
 - `.sort()`: Para ordenar os dados.
 - `.slice()`: Para selecionar uma parte dos dados.
 - `.reduce()`: Para reduzir os dados a um valor único.
+
+
+Projeto feito com parceria da plataforma [DEVstart](https://app.devstart.tech/learn/).
